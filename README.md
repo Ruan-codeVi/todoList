@@ -1,3 +1,5 @@
+<div align="center"> 
+ 
 ##  Description 🚧
 </br>
 
@@ -5,3 +7,7 @@
  </br>
 
 ![Screen](/assets/todoList.gif)
+
+
+
+</div>
