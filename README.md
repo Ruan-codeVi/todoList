@@ -1,3 +1,4 @@
 # todoList
 
-![Screen](/assets/todoList.mp4)
+
+![Screen](/assets/todoList.gif)
